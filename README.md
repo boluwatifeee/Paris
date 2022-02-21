@@ -1,6 +1,5 @@
 A single-page responsive parallax website about Paris
 ## Table of contents
-
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
